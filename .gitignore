@@ -1,2 +1,2 @@
 # Ignorar a pasta de configuração do Firebase
-assets/js/firebase/
+assets/js/firebase/app.js
